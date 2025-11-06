@@ -19,8 +19,7 @@ It allows users to create, update, read, and delete (CRUD) student records effic
 
 🛠️ Technologies Used
 Technology	Purpose
-Python	Programming Language
-Django	Backend Framework
-HTML + CSS	Frontend UI
-PostgreSQL	Database
-Git & GitHub	Version Control
+**Python	Programming Language
+**Django	Backend Framework
+**HTML + CSS	Frontend UI
+**PostgreSQL	Database
