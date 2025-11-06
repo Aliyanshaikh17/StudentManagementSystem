@@ -18,6 +18,7 @@ It allows users to create, update, read, and delete (CRUD) student records effic
 🛢️ PostgreSQL database integration
 
 🛠️ Technologies Used
+
 **Python
 
 **Django	
